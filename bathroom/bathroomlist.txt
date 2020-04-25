@@ -1,2 +1,4 @@
 1. soap
 2. shampoo
+3. brush
+4. paste
